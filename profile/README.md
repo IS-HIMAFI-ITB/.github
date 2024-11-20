@@ -1,5 +1,5 @@
 # Halo!👋 Selamat Datang
-Ini adalah halaman github resmi untuk kepanitiaan **Intellektuelle Schulle HIMAFI ITB** yang merupakan acara kaderisasi tahunan HIMAFI ITB. Kami dari divisi IT Intellektuelle Schulle 2023 akan membuat suatu website yang akan digunakan peserta IS HIMAFI ITB dan panitia untuk melakukan penilaian, peninjauan, dan sebagai kanal informasi antar peserta dan panitia.
+Ini adalah halaman github resmi untuk kepanitiaan **Intellektuelle Schulle HIMAFI ITB** yang merupakan acara kaderisasi tahunan HIMAFI ITB. Kami dari divisi IT Intellektuelle Schulle 2024 akan membuat suatu website yang akan digunakan peserta IS HIMAFI ITB dan panitia untuk melakukan penilaian, peninjauan, dan sebagai kanal informasi antar peserta dan panitia.
 
 
 <!--
